@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "electronics engineer // journalist // programmer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a fourth-year student in the Department of Electrical and Electronic Engineering at Imperial College London. In the summers, I work with the Space Magnetometer Laboratory, with a focus on anisotropic magnetorestive (AMR) sensor electronics for space weather applications - with applications including the characterization of magnetic multipoles of large, interplanetary spacecraft, and scientific data from small, low-power, (relatively) low-cost craft such as cubesats and nanosatellites.
+
+Specifically, I work on RadCube, a joint venture from the Hungarian Academy of Sciences Center for Energy Research (MTA EK) and the European Space Agency; the primary payloads are MTA EK's particle sensor and our AMR magnetometer. We are moving towards a critical design review in late 2018 and delivery of the flight magnetometer next year; our launch is scheduled for 2020. I am responsible for the design and calibration of the electronics for the sensor.
+
+I have also spent time working on various other projects for the lab, including a fully-digital AMR sensor proof-of-concept (implementing the front-end analog signal chain on an FPGA), and various debug tools for the JUpiter ICy moons Explorer (JUICE) magnetometer (J-MAG); specifically, I designed a simulator board for the J-MAG instrument control board, featuring LVDS buffers and off-board connectors mimicking the design of the proper instrument, such that collaborating institutions (the University of Braunshweig, and the Austrian Academy of Sciences at Graz) could debug their hardware.
 
 A data-driven personal website
 ======
