@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "electronics engineer; scientist; journalist"
+title: "Nothing beats the smell of fresh hardware in the morning"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
