@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-As part of coursework for an industrial placement, I am required to put together a portfolio of projects I have worked on. I'm not much of a visual person - sorry for the wall of text! I love talking about myself :).
+I am a programmer and electrical engineer with specific interest in embedded systems and instrumentation.
+
+If you have any leads as to possible PhD projects in the spacecraft instrumentation or bioengineering fields, please don't hesitate to contact me at `he915@ic.ac.uk`!
+
+Sorry for the wall of text - I'm congenitally blind in an eye and have never really been a visual person. Plus, technical accomplishments are difficult to describe without writeup. Now, excuse me while I talk about myself...
 
 Spacecraft magnetometry
 =====
 In the summers, I work at the [Space Magnetometer Laboratory](http://www.imperial.ac.uk/space-and-atmospheric-physics/research/areas/space-magnetometer-laboratory/) as an [instrument engineer](http://www.imperial.ac.uk/space-and-atmospheric-physics/people/), with a focus on COTS anisotropic magnetorestive (AMR) sensor electronics for space weather applications, including the characterization of magnetic multipoles of interplanetary spacecraft, and scientific data from small, low-power, low-cost craft such as cubesats and nanosatellites.
 
-Specifically, I work on [RadCube](https://www.radcube.hu/en/), a joint venture from the Hungarian Academy of Sciences Center for Energy Research (MTA EK) and the European Space Agency; the primary scientific payloads are MTA EK's particle sensor and our magnetometer. We are moving towards a critical design review in late 2018/early 2019 and delivery of the flight magnetometer next year; our launch is scheduled for 2020. I am responsible for the design and calibration of the electronics for the sensor, including scripting support software and design of the board.
+Specifically, I work on [RadCube](https://www.radcube.hu/en/), a joint venture from the Hungarian Academy of Sciences Center for Energy Research (MTA EK) and the European Space Agency; the primary scientific payloads are MTA EK's particle sensor and our magnetometer. We are moving towards a critical design review in late 2018/early 2019 and delivery of the flight magnetometer next year; our launch is scheduled for 2020. I am responsible for the design and calibration of the electronics for the sensor, including scripting support software and interacting with contractors.
 
 I have also spent time working on various other projects for the lab, including a fully-digital AMR sensor proof-of-concept (implementing the front-end analog signal chain on an FPGA), and various debug tools for the [JUpiter ICy moons Explorer (JUICE)](http://sci.esa.int/juice/) magnetometer (J-MAG); specifically, I designed a simulator board for the J-MAG instrument control board, featuring LVDS buffers and off-board connectors mimicking the design of the proper instrument, such that collaborating institutions (the University of Braunshweig, and the Austrian Academy of Sciences at Graz) could debug their hardware.
 
