@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Henry Eshbaugh"
+title                    : "PCBs and binary trees"
 title_separator          : "-"
 name                     : &name "Henry Eshbaugh"
 description              : &description "electronics engineer // programmer"
