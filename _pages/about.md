@@ -57,7 +57,7 @@ In high school, I completed 9 AP modules, earning '5's on each - in Calculus AB,
 University projects
 =====
 
-![braille signer](https://github.com/henry-eshbaugh/henry-eshbaugh.github.io/blob/master/36632254_1709939089059111_6828926669823148032_n.jpg)
+Here's a picture of the [braille signer](https://github.com/henry-eshbaugh/henry-eshbaugh.github.io/blob/master/36632254_1709939089059111_6828926669823148032_n.jpg); the framework isn't rendering it like it's supposed to. Sorry!
 
 In second year, I collaborated with a team to work on a tactile-braille-signing glove. The braille cell is made of six points, each indented or left flat, essentially encoding a chracter in six bits. With deaf-blind individuals, conversation proceeds via stimulation of six points in the hand. We built a small glove with motors to do this stimulation.
 
@@ -71,9 +71,9 @@ Another included pipelining of a complicated floating-point expression including
 
 Finally, I self-proposed a Scheme interpreter (such are trivial to implement due to the simple nature of the syntax - Lisp can implement Lisp in some 200 lines) for a third-year functional programming module - I think Lisp (spoken of here as a monolithic entity, despite the multitude of dialects) is a beautiful language with an incredibly expressive syntax focusing on *homoiconicity* - that is, it is a language for operating on linked lists that is itself a notation for linked lists, and so it operates *on itself* ("metaprogramming") in a beautiful way. My experiences fooling around with the language (and perhaps some indoctrination into programming lore - including [the "Lisp Curse"](http://www.winestockwebdesign.com/Essays/Lisp_Curse.html), an accurate take that suggests that the language itself is so powerful that it discourages collaboration, thus hindering standardization and broad acceptance of techniques [1]) I wanted to implement a subset of [R7RS scheme](http://www.larcenists.org/Documentation/Documentation0.98/r7rs.pdf), specifically, which is small and well-defined - sample implementations under 500 lines of code are available online as proof of the viability of this idea. Unfortunately, my professor insisted that I was incapable of writing such a "difficult" program, and had our group implement an ARM assembler/emulator instead. So, I wrote another VM; in light of the virtualization obfuscation work I did in high school, this isn't particularly interesting.
 
-[1] This cannot be understated; consider the Common Lisp Object System (CLOS), which, to date, is arguably the most (subjectively) beautiful implementation of object-oriented programming practices (concepts from which, e.g. multi-method dispatch over function calls as a way to do type-generic programming, have recently been revived in the wonderful [Julia language](https://julialang.org/), which I find superior to similar tools like MATLAB and Python). LISP was around 30 years before Alan Kay even coined the term OOP. The inherent mutability of the syntax enabled this to happen with relatively little work in the implementation - just a simple articulation of these syntactic ideas in *Lisp itself*.
-
 I am still tremendously disappointed that I was prevented from pursuing this project.
+
+[1] This cannot be understated; consider the Common Lisp Object System (CLOS), which, to date, is arguably the most (subjectively) beautiful implementation of object-oriented programming practices (concepts from which, e.g. multi-method dispatch over function calls as a way to do type-generic programming, have recently been revived in the wonderful [Julia language](https://julialang.org/), which I find superior to similar tools like MATLAB and Python). LISP was around 30 years before Alan Kay even coined the term OOP. The inherent mutability of the syntax enabled this to happen with relatively little work in the implementation - just a simple articulation of these syntactic ideas in *Lisp itself*.
 
 Extracurricular activities & teaching
 =====
