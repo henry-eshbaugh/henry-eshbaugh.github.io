@@ -25,7 +25,9 @@ I have also spent time working on various other projects for the lab, including 
 I have also developed a small but powerful Python framework called Magpie, which allows for easy management and live graphing of test data. This data is specified to arrive appended to CSVs; arbitrary transforms on the data can be specified, and particular data columns (or transforms thereof) can be redirected to graphs on a web page in an arbitrary layout. This framework relies heavily on the Bokeh framework; however, while Bokeh may need hundreds of lines of code to specify a single interface to test data, a quick script to serve such web pages amounts to a few lines of Python with the Magpie framework. Though initially developed for JUICE debugging two years ago, I am currently using this framework to test and calibrate the RadCube magnetometer.
 
 I am a coauthor of two abstracts for presentations:
+
 [1] Chiara Palla, Patrick Brown, Henry Eshbaugh, Tim Oddy, Jonathan P. Eastwood. *MAGIC: a miniaturised magnetometer for space weather monitoring with CubeSats* In: Open Source CubeSat Workshop. 2018.
+
 [2] Chiara Palla, Patrick Brown, Henry Eshbaugh, Tim Oddy, Jonathan P. Eastwood. *Low resource magnetometer for space weather applications and implementation on RadCube*. In: European Space Weather Week (track: Space Weather Instrumentation). 2018.
 
 
