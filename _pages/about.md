@@ -12,7 +12,7 @@ I am a programmer and electrical engineer with specific interest in embedded sys
 
 If you have any leads as to possible PhD projects in the spacecraft instrumentation or bioengineering fields, please don't hesitate to contact me at `he915@ic.ac.uk`!
 
-Sorry for the wall of text - I'm congenitally blind in an eye and have never really been a visual person. Plus, technical accomplishments are difficult to describe without writeup. Now, excuse me while I talk about myself...
+Sorry for the wall of text - my eyesight is terrible (blind in an eye etc) and so have never been much of a visual person. Plus, technical accomplishments are difficult to describe without writeup. Now, excuse me while I talk about myself...
 
 Spacecraft magnetometry
 =====
@@ -23,6 +23,11 @@ Specifically, I work on [RadCube](https://www.radcube.hu/en/), a joint venture f
 I have also spent time working on various other projects for the lab, including a fully-digital AMR sensor proof-of-concept (implementing the front-end analog signal chain on an FPGA), and various debug tools for the [JUpiter ICy moons Explorer (JUICE)](http://sci.esa.int/juice/) magnetometer (J-MAG); specifically, I designed a simulator board for the J-MAG instrument control board, featuring LVDS buffers and off-board connectors mimicking the design of the proper instrument, such that collaborating institutions (the University of Braunshweig, and the Austrian Academy of Sciences at Graz) could debug their hardware.
 
 I have also developed a small but powerful Python framework called Magpie, which allows for easy management and live graphing of test data. This data is specified to arrive appended to CSVs; arbitrary transforms on the data can be specified, and particular data columns (or transforms thereof) can be redirected to graphs on a web page in an arbitrary layout. This framework relies heavily on the Bokeh framework; however, while Bokeh may need hundreds of lines of code to specify a single interface to test data, a quick script to serve such web pages amounts to a few lines of Python with the Magpie framework. Though initially developed for JUICE debugging two years ago, I am currently using this framework to test and calibrate the RadCube magnetometer.
+
+I am a coauthor of two abstracts for presentations:
+[1] Chiara Palla, Patrick Brown, Henry Eshbaugh, Tim Oddy, Jonathan P. Eastwood. *MAGIC: a miniaturised magnetometer for space weather monitoring with CubeSats* In: Open Source CubeSat Workshop. 2018.
+[2] Chiara Palla, Patrick Brown, Henry Eshbaugh, Tim Oddy, Jonathan P. Eastwood. *Low resource magnetometer for space weather applications and implementation on RadCube*. In: European Space Weather Week (track: Space Weather Instrumentation). 2018.
+
 
 Living Observatory
 =====
